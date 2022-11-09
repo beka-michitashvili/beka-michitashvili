@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beka-michitashvili
+- 👋 Hi, I’m Beka Michitashvili
 - 👀 I’m interested in front end development 
 - 🌱 I’m currently learning HTML CSS Javascript
 - 💞️ I’m looking to collaborate on projects which include HTML CSS
